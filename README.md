@@ -7,12 +7,12 @@ Instrucciones de instalación
 ----------------------------
 
 npm install PhotoFilter
----
+
 Uso
 -----
 
 Selecciona una imagen (jpg, png) desde tu galería y agrega a tus imágenes los siguientes efectos:
-* **Blur** 
+* **Blur**
 * **Brightness**
 * **Contrast**
 * **Drop-shadow**
