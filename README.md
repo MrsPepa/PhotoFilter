@@ -7,7 +7,7 @@ Instrucciones de instalación
 ----------------------------
 
 npm install PhotoFilter
-
+---
 Uso
 -----
 
