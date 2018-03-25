@@ -43,9 +43,8 @@ Autor
 * **Camila Silva** - *Initial work* - [camilufer](https://github.com/camilufer)
 
 
-![photofilter-preview](#)
+![photofilter](https://user-images.githubusercontent.com/32282880/37881361-507dd714-306d-11e8-95db-602e62523c3f.png)
 
-## Desarrollado para [Laboratoria](http://laboratoria.la)
-
+###### Desarrollado para [Laboratoria](http://laboratoria.la)
 
  Inspirado en - [w3schools](https://www.w3schools.com/cssref/css3_pr_filter.asp) 
