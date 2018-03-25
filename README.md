@@ -43,6 +43,9 @@ Autor
 * **Camila Silva** - *Initial work* - [camilufer](https://github.com/camilufer)
 
 
+![photofilter-preview](#)
+
+## Desarrollado para [Laboratoria](http://laboratoria.la)
 
 
  Inspirado en - [w3schools](https://www.w3schools.com/cssref/css3_pr_filter.asp) 
