@@ -3,6 +3,10 @@ Librería Photofilter
 
 Photofilter es una librería de javascript que te permite darle diferentes estilos a tus fotografías de manera facil y práctica.
 
+### Vista previa
+
+![photofilter](https://user-images.githubusercontent.com/32282880/37881361-507dd714-306d-11e8-95db-602e62523c3f.png)
+
 Instrucciones de instalación
 ----------------------------
 
